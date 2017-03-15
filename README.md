@@ -2,5 +2,5 @@
 
 Addons needed:
 
-ofxOpenCv
-ofxSpout
+ofxOpenCv.
+ofxSpout.
